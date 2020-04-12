@@ -4,7 +4,7 @@ import { BrowserRouter, Route, NavLink } from 'react-router-dom';
 import User from './containers/User';
 import Welcome from './containers/Welcome';
 
-const Posts = React.lazy(() => import('./containers/Posts'));
+const Posts = React.lazy();
 
 class App extends Component {
   state = { showPosts: false };

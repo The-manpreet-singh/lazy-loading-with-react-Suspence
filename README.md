@@ -1,4 +1,4 @@
-# lazy-loading-React
+# lazy-loading-React Udemy Project
 
 I created a calculator-React app. I'm going to use React, html5, css3 .
 
